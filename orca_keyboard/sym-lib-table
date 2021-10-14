@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/lib/kicad_lib/keyboard_parts.lib)(options "")(descr ""))
-  (lib (name mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/lib/kicad_lib/mkl27z256vfm4.lib)(options "")(descr ""))
-  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/lib/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri ${ORCA_TEMPLATE_DIR}/lib/kicad_lib/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri ${ORCA_TEMPLATE_DIR}/lib/kicad_lib/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri ${ORCA_TEMPLATE_DIR}/lib/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name SparkFun-Boards)(type Legacy)(uri ${ORCA_TEMPLATE_DIR}/lib/sparkfun_libraries/SparkFun-Boards.lib)(options "")(descr ""))
 )
