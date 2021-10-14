@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source D:\Project\OverRapid_Keyboard_Project\orca_keyboard\orca_keyboard.sch)
-    (date "2021-10-14 오후 12:22:58")
+    (source C:\Users\GVSolgryn\Documents\GitHub\OverRapid_Keyboard_Project\orca_keyboard\orca_keyboard.sch)
+    (date "2021-10-14 오후 4:01:15")
     (tool "Eeschema (5.1.10)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -314,9 +314,9 @@
         (pin (num 2) (name ~) (type passive)))))
   (libraries
     (library (logical SparkFun-Boards)
-      (uri D:\Project\OverRapid_Keyboard_Project\orca_keyboard\template/lib/sparkfun_libraries/SparkFun-Boards.lib))
+      (uri C:\Users\GVSolgryn\Documents\GitHub\OverRapid_Keyboard_Project\orca_keyboard\template/lib/sparkfun_libraries/SparkFun-Boards.lib))
     (library (logical keyboard_parts)
-      (uri D:\Project\OverRapid_Keyboard_Project\orca_keyboard\template/lib/kicad_lib/keyboard_parts.lib)))
+      (uri C:\Users\GVSolgryn\Documents\GitHub\OverRapid_Keyboard_Project\orca_keyboard\template/lib/kicad_lib/keyboard_parts.lib)))
   (nets
     (net (code 1) (name "Net-(D12-Pad2)")
       (node (ref D12) (pin 2))
