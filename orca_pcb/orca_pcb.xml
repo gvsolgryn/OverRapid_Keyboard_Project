@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Project\OverRapid_Keyboard_Project\orca_pcb\orca_pcb.kicad_sch</source>
+    <date>2022-01-10 오전 5:31:48</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>orca_pcb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="B0">
+      <value>SPARKFUN_PRO_MICRO</value>
+      <footprint>Boards:SPARKFUN_PRO_MICRO</footprint>
+      <fields>
+        <field name="Field4">XXX-00000</field>
+      </fields>
+      <libsource lib="SparkFun-Boards" part="SPARKFUN_PRO_MICRO" description="SparkFun Pro Micro  Atmega32U4 compatible footprint. &lt;b&gt;SparkFun Products:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href= https://www.sparkfun.com/products/12587 &gt;3.3V/8MHz&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href= https://www.sparkfun.com/products/12640 &gt;5V/16MHz&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;"/>
+      <property name="Field4" value="XXX-00000"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64d3d254-78f0-4939-8200-30d27b15edb6</tstamps>
+    </comp>
+    <comp ref="D00">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a9f6939-ea91-4a8c-b3ed-6903c4840817</tstamps>
+    </comp>
+    <comp ref="D01">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8ae2c87-daac-4a9f-a206-a4163f70f39a</tstamps>
+    </comp>
+    <comp ref="D02">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8191dbce-9bd5-4952-bbdf-9434b80067aa</tstamps>
+    </comp>
+    <comp ref="D03">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>71bee601-46eb-4bb7-8458-3969fc6b4193</tstamps>
+    </comp>
+    <comp ref="D04">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>821be917-b2e2-4ac8-8697-577f743fa97c</tstamps>
+    </comp>
+    <comp ref="D05">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3c7540b-0003-451f-84ac-7d835efe6f46</tstamps>
+    </comp>
+    <comp ref="D06">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d12b4bbc-fddc-4e0f-bf8a-5eefe31cfcaa</tstamps>
+    </comp>
+    <comp ref="D07">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee4929cc-88b1-4e84-be91-f8fa8a8e5989</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>061054a3-54b4-4eda-a723-18380be80e05</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef7c3e91-aaa1-4536-a643-42e668180d37</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f1e2635-433a-4479-be5c-08e9cce09963</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1364e141-139b-433c-930a-22c4a504a219</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e90c870-ea0a-4344-ab63-63e914c7d2bb</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7eeefce6-10ee-4bb5-ba25-a82253ef4d36</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>994705c8-ed0a-44b0-86cb-ff7d8fa1c979</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>409e78b6-b80e-4341-afba-6fa4cea26682</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>835774cc-3ce8-4f84-a1b8-05bef0ac822c</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8641b87b-3496-4051-adb7-8771dd253c1c</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>139191da-5f8b-4dea-b670-65e6b0b0ddf5</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>keyboard_parts:D_SOD123_axial</footprint>
+      <libsource lib="keyboard_parts" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98e0643e-eaca-4a19-b194-f9fc32e28012</tstamps>
+    </comp>
+    <comp ref="K00">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d18db16-e2d1-429c-b35c-c85af8b309a4</tstamps>
+    </comp>
+    <comp ref="K01">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80b85010-6deb-4ff5-8e53-bc63ff8ac231</tstamps>
+    </comp>
+    <comp ref="K02">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6433742e-11cb-47cd-b304-46e0f206cf6a</tstamps>
+    </comp>
+    <comp ref="K03">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02e8169e-5738-4e28-b2fc-271c203a0d02</tstamps>
+    </comp>
+    <comp ref="K04">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c56c3ae3-7261-41b5-a616-56974f0cdbd9</tstamps>
+    </comp>
+    <comp ref="K05">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>514d094b-a6fd-43aa-ae16-ab7870909f76</tstamps>
+    </comp>
+    <comp ref="K06">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3932db1-3368-412b-9e04-4d77f755bd04</tstamps>
+    </comp>
+    <comp ref="K07">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3079948a-fa61-4d3a-a0cb-cbf3552e63c9</tstamps>
+    </comp>
+    <comp ref="K10">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbf6be59-841d-4c19-817e-0e7bbe999832</tstamps>
+    </comp>
+    <comp ref="K11">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb9ed12c-3bba-4f4d-b578-02ff0c9f829f</tstamps>
+    </comp>
+    <comp ref="K12">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcbfe18c-1ff1-48ba-b744-1eef927678ed</tstamps>
+    </comp>
+    <comp ref="K13">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43065a6a-5d71-46fa-aee2-d1f2ca83a3d4</tstamps>
+    </comp>
+    <comp ref="K14">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34ae9010-7f91-4e26-b5a5-d8e8b5faf71c</tstamps>
+    </comp>
+    <comp ref="K15">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a2967f7-231d-4a90-b64f-c0f888838b1b</tstamps>
+    </comp>
+    <comp ref="K16">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73bfaa00-160e-4fa9-b5fc-585440e05b59</tstamps>
+    </comp>
+    <comp ref="K17">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca4367aa-15dd-48d1-bea9-1686958b6140</tstamps>
+    </comp>
+    <comp ref="K22">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c96fca80-9655-4c5f-8b8d-42b376dad404</tstamps>
+    </comp>
+    <comp ref="K23">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f57f87f9-8f93-4303-a624-7807ad396b0f</tstamps>
+    </comp>
+    <comp ref="K24">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbcfafa9-2e13-419a-892d-0d54a7afc8eb</tstamps>
+    </comp>
+    <comp ref="K25">
+      <value>KEYSW</value>
+      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.25u</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="orca_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e9c0b11-e07f-43d6-ba6d-1514fd01e3f7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="SparkFun-Boards" part="SPARKFUN_PRO_MICRO">
+      <description>SparkFun Pro Micro  Atmega32U4 compatible footprint. &lt;b&gt;SparkFun Products:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href= https://www.sparkfun.com/products/12587 &gt;3.3V/8MHz&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href= https://www.sparkfun.com/products/12640 &gt;5V/16MHz&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+      <footprints>
+        <fp>*SPARKFUN_PRO_MICRO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">B</field>
+        <field name="Value">SPARKFUN_PRO_MICRO</field>
+        <field name="Footprint">SPARKFUN_PRO_MICRO</field>
+        <field name="Field4">XXX-00000</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXO" type="bidirectional"/>
+        <pin num="2" name="RXI" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="2" type="bidirectional"/>
+        <pin num="6" name="*3" type="bidirectional"/>
+        <pin num="7" name="4" type="bidirectional"/>
+        <pin num="8" name="*5" type="bidirectional"/>
+        <pin num="9" name="*6" type="bidirectional"/>
+        <pin num="10" name="7" type="bidirectional"/>
+        <pin num="11" name="8" type="bidirectional"/>
+        <pin num="12" name="*9" type="bidirectional"/>
+        <pin num="13" name="*10" type="bidirectional"/>
+        <pin num="14" name="11(MOSI)" type="bidirectional"/>
+        <pin num="15" name="12(MISO)" type="bidirectional"/>
+        <pin num="16" name="13(SCK)" type="bidirectional"/>
+        <pin num="17" name="A0" type="bidirectional"/>
+        <pin num="18" name="A1" type="bidirectional"/>
+        <pin num="19" name="A2" type="bidirectional"/>
+        <pin num="20" name="A3" type="bidirectional"/>
+        <pin num="21" name="VCC" type="power_in"/>
+        <pin num="22" name="RESET" type="bidirectional"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="RAW" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="D">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="KEYSW">
+      <fields>
+        <field name="Reference">K?</field>
+        <field name="Value">KEYSW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="SparkFun-Boards">
+      <uri>D:\Project\OverRapid_Keyboard_Project\orca_pcb/template/libraries/sparkfun/SparkFun-Boards.lib</uri>
+    </library>
+    <library logical="keyboard_parts">
+      <uri>D:\Project\OverRapid_Keyboard_Project\orca_pcb/template/libraries/keyboard/keyboard_parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/GND">
+      <node ref="B0" pin="1" pinfunction="TXO" pintype="bidirectional"/>
+      <node ref="B0" pin="16" pinfunction="13(SCK)" pintype="bidirectional"/>
+      <node ref="B0" pin="17" pinfunction="A0" pintype="bidirectional"/>
+      <node ref="B0" pin="18" pinfunction="A1" pintype="bidirectional"/>
+      <node ref="B0" pin="19" pinfunction="A2" pintype="bidirectional"/>
+      <node ref="B0" pin="2" pinfunction="RXI" pintype="bidirectional"/>
+      <node ref="B0" pin="20" pinfunction="A3" pintype="bidirectional"/>
+      <node ref="B0" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="B0" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="B0" pin="4" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="2" name="/RAW">
+      <node ref="B0" pin="24" pinfunction="RAW" pintype="power_in"/>
+    </net>
+    <net code="3" name="/RST">
+      <node ref="B0" pin="22" pinfunction="RESET" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/VCC">
+      <node ref="B0" pin="21" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="5" name="/col0">
+      <node ref="B0" pin="5" pinfunction="2" pintype="bidirectional"/>
+      <node ref="K00" pin="1" pintype="passive"/>
+      <node ref="K10" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/col1">
+      <node ref="B0" pin="6" pinfunction="*3" pintype="bidirectional"/>
+      <node ref="K01" pin="1" pintype="passive"/>
+      <node ref="K11" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/col2">
+      <node ref="B0" pin="7" pinfunction="4" pintype="bidirectional"/>
+      <node ref="K02" pin="1" pintype="passive"/>
+      <node ref="K12" pin="1" pintype="passive"/>
+      <node ref="K22" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/col3">
+      <node ref="B0" pin="8" pinfunction="*5" pintype="bidirectional"/>
+      <node ref="K03" pin="1" pintype="passive"/>
+      <node ref="K13" pin="1" pintype="passive"/>
+      <node ref="K23" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="/col4">
+      <node ref="B0" pin="9" pinfunction="*6" pintype="bidirectional"/>
+      <node ref="K04" pin="1" pintype="passive"/>
+      <node ref="K14" pin="1" pintype="passive"/>
+      <node ref="K24" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/col5">
+      <node ref="B0" pin="10" pinfunction="7" pintype="bidirectional"/>
+      <node ref="K05" pin="1" pintype="passive"/>
+      <node ref="K15" pin="1" pintype="passive"/>
+      <node ref="K25" pin="1" pintype="passive"/>
+    </net>
+    <net code="11" name="/col6">
+      <node ref="B0" pin="11" pinfunction="8" pintype="bidirectional"/>
+      <node ref="K06" pin="1" pintype="passive"/>
+      <node ref="K16" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/col7">
+      <node ref="B0" pin="12" pinfunction="*9" pintype="bidirectional"/>
+      <node ref="K07" pin="1" pintype="passive"/>
+      <node ref="K17" pin="1" pintype="passive"/>
+    </net>
+    <net code="13" name="/row0">
+      <node ref="B0" pin="15" pinfunction="12(MISO)" pintype="bidirectional"/>
+      <node ref="D00" pin="1" pintype="passive"/>
+      <node ref="D01" pin="1" pintype="passive"/>
+      <node ref="D02" pin="1" pintype="passive"/>
+      <node ref="D03" pin="1" pintype="passive"/>
+      <node ref="D04" pin="1" pintype="passive"/>
+      <node ref="D05" pin="1" pintype="passive"/>
+      <node ref="D06" pin="1" pintype="passive"/>
+      <node ref="D07" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="/row1">
+      <node ref="B0" pin="14" pinfunction="11(MOSI)" pintype="bidirectional"/>
+      <node ref="D10" pin="1" pintype="passive"/>
+      <node ref="D11" pin="1" pintype="passive"/>
+      <node ref="D12" pin="1" pintype="passive"/>
+      <node ref="D13" pin="1" pintype="passive"/>
+      <node ref="D14" pin="1" pintype="passive"/>
+      <node ref="D15" pin="1" pintype="passive"/>
+      <node ref="D16" pin="1" pintype="passive"/>
+      <node ref="D17" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="/row2">
+      <node ref="B0" pin="13" pinfunction="*10" pintype="bidirectional"/>
+      <node ref="D22" pin="1" pintype="passive"/>
+      <node ref="D23" pin="1" pintype="passive"/>
+      <node ref="D24" pin="1" pintype="passive"/>
+      <node ref="D25" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D00-Pad2)">
+      <node ref="D00" pin="2" pintype="passive"/>
+      <node ref="K00" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D01-Pad2)">
+      <node ref="D01" pin="2" pintype="passive"/>
+      <node ref="K01" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D02-Pad2)">
+      <node ref="D02" pin="2" pintype="passive"/>
+      <node ref="K02" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D03-Pad2)">
+      <node ref="D03" pin="2" pintype="passive"/>
+      <node ref="K03" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D04-Pad2)">
+      <node ref="D04" pin="2" pintype="passive"/>
+      <node ref="K04" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D05-Pad2)">
+      <node ref="D05" pin="2" pintype="passive"/>
+      <node ref="K05" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D06-Pad2)">
+      <node ref="D06" pin="2" pintype="passive"/>
+      <node ref="K06" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D07-Pad2)">
+      <node ref="D07" pin="2" pintype="passive"/>
+      <node ref="K07" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pintype="passive"/>
+      <node ref="K10" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pintype="passive"/>
+      <node ref="K11" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pintype="passive"/>
+      <node ref="K12" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pintype="passive"/>
+      <node ref="K13" pin="2" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pintype="passive"/>
+      <node ref="K14" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pintype="passive"/>
+      <node ref="K15" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pintype="passive"/>
+      <node ref="K16" pin="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pintype="passive"/>
+      <node ref="K17" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pintype="passive"/>
+      <node ref="K22" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pintype="passive"/>
+      <node ref="K23" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pintype="passive"/>
+      <node ref="K24" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pintype="passive"/>
+      <node ref="K25" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

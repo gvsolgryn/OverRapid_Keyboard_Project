@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name keebs)(type KiCad)(uri ${ORCA_TEMPLATE_DIR}/pretty/keebs.pretty)(options "")(descr ""))
-  (lib (name keyboard_parts)(type KiCad)(uri ${ORCA_TEMPLATE_DIR}/pretty/keyboard_parts.pretty)(options "")(descr ""))
-  (lib (name promicro)(type KiCad)(uri ${ORCA_TEMPLATE_DIR}/pretty/promicro.pretty)(options "")(descr ""))
-  (lib (name Boards)(type KiCad)(uri ${ORCA_TEMPLATE_DIR}/pretty/sparkfun_footprints/Boards.pretty)(options "")(descr ""))
-)
